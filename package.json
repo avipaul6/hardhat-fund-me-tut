@@ -1,0 +1,18 @@
+{
+  "name": "hardhat-fundme",
+  "version": "1.0.0",
+  "description": "hardhat fund me follow along tut",
+  "main": "index.js",
+  "repository": "git@github.com:avipaul6/hardhat-fund-me-tut.git",
+  "author": "Avi Paul <avijit.paul.1992@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.2",
+    "hardhat-ethers": "^1.0.1",
+    "hardhat-etherscan": "^1.0.1",
+    "hardhat-waffle": "^0.0.1-security"
+  }
+}
