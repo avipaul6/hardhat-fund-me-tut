@@ -43,6 +43,9 @@ module.exports = {
   etherscan: {
     apiKey: ETHERSCAN_API_KEY,
   },
+  namedAccounts: {
+    deployer: {},
+  },
   gasReporter: {
     enabled: true,
     currency: "USD",
